@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3kckpgFyJk9Mi3K+1rOKquj3lXXCYv/dM9qrA45NgtFeVfzv3SiMv3gTexQAbnyDsVY7U9cO9iAcz8nlYA+4fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\ProyectoMVC\\Modelo\\Modelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

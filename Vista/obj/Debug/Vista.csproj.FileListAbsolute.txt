@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Modelo\Vista\bin\Debug\Vista.exe.config
+C:\Users\Dell\source\repos\Modelo\Vista\bin\Debug\Vista.exe
+C:\Users\Dell\source\repos\Modelo\Vista\bin\Debug\Vista.pdb
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.MantenimientoCategoria.resources
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.exe
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.pdb
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.Main.resources
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.MantenimientoProducto.resources
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.ListaProducto.resources
+C:\Users\Dell\source\repos\Modelo\Vista\bin\Debug\Modelo.dll
+C:\Users\Dell\source\repos\Modelo\Vista\bin\Debug\Modelo.pdb
+C:\Users\Dell\source\repos\Modelo\Vista\obj\Debug\Vista.csproj.CopyComplete

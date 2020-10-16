@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\Modelo\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\Dell\source\repos\Modelo\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Dell\source\repos\Modelo\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Dell\source\repos\Modelo\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Modelo\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Modelo\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Modelo\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Modelo\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\Dell\source\repos\Modelo\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
